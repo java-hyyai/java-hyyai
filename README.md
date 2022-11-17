@@ -35,5 +35,4 @@ A new word cloud will be automatically generated when you [add your own word](ht
   [![Github Badge](https://img.shields.io/badge/-@will--r--wang-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/will-r-wang)](https://github.com/will-r-wang) 
   [![Github Badge](https://img.shields.io/badge/-@JessicaLim8-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/JessicaLim8)](https://github.com/JessicaLim8) 
 
-  **⭐️ From [JessicaLim8](https://github.com/JessicaLim8)**
-</div>
+ </div>
